@@ -1,0 +1,22 @@
+{
+  "name": "practical-task-automated-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conditionalStatementsAndDataTypes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConstaLo/Practical-Task-Automated-Testing.git"
+  },
+  "author": "Konstantin Loshchinin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConstaLo/Practical-Task-Automated-Testing/issues"
+  },
+  "homepage": "https://github.com/ConstaLo/Practical-Task-Automated-Testing#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
