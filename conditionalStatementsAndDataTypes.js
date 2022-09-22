@@ -1,6 +1,6 @@
 // Perform addition of various types (string + boolean, string + number, number + boolean)
 let someString = 'Hello World';
-let someBoolean = true;
+let someBoolean = false;
 let someNumber = 4;
 console.log('Result of str + bool = ', someString + someBoolean);
 console.log('Result of str + num = ', someString + someNumber);
@@ -10,3 +10,8 @@ console.log('Result of num + bool = ', someNumber + someBoolean);
 console.log('Result of str * bool = ', someString * someBoolean);
 console.log('Result of str * num = ', someString * someNumber);
 console.log('Result of num * bool = ', someNumber * someBoolean);
+
+// Divide different types (string / boolean, string / number, number / Boolean)
+console.log('Result of str / bool = ', someString / someBoolean);
+console.log('Result of str / num = ', someString / someNumber);
+console.log('Result of num / bool = ', someNumber / someBoolean);
